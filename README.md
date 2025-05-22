@@ -9,7 +9,7 @@ Um aplicativo Android para criar uma de lista de compras, desenvolvido em Kotlin
 
 ## Tela inicial
 ### Tela principal e funcionamento do app
-![Página inicial do aplicativo](imagens/telaprincipal.gif)
+![Página inicial do aplicativo](assets/telaprincipal.gif)
 
 ## Características
 
